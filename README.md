@@ -8,8 +8,8 @@ A simple MERN stack MVP to demonstrate real-time order tracking + OTP-based deli
 
 Test both interfaces here:
 
-- 🧑‍💼 [Delivery Agent View](https://your-agent-url.com)
-- 🙋‍♂️ [Customer View](https://your-customer-url.com)
+- 🧑‍💼 [Delivery Agent View](https://order-tracking-3t24tzhcp-ankitsingh435517s-projects.vercel.app/agent)
+- 🙋‍♂️ [Customer View](https://order-tracking-3t24tzhcp-ankitsingh435517s-projects.vercel.app/customer)
 
 > Uses a pre-seeded demo order (`orderId: demo-1234`) with a fake customer location.
 
